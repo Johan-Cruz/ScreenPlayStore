@@ -1,0 +1,16 @@
+com/demoblaze/tasks/OpenSession.java
+ com.demoblaze.tasks.OpenSession
+com/demoblaze/useinterfaces/StoreLoginPage.java
+ com.demoblaze.useinterfaces.StoreLoginPage
+com/demoblaze/models/DataLogin.java
+ com.demoblaze.models.DataLogin
+com/demoblaze/tasks/LoginUser.java
+ com.demoblaze.tasks.LoginUser
+com/demoblaze/questions/QuestionLoginUser.java
+ com.demoblaze.questions.QuestionLoginUser
+com/demoblaze/interactions/Seleccionar.java
+ com.demoblaze.interactions.Seleccionar
+com/demoblaze/useinterfaces/StoreHomePage.java
+ com.demoblaze.useinterfaces.StoreHomePage
+com/demoblaze/useinterfaces/VerifyUserPage.java
+ com.demoblaze.useinterfaces.VerifyUserPage
